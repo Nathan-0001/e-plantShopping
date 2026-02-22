@@ -6,7 +6,7 @@
 
 A modern, high-performance plant e-commerce experience built with **React** and **Vite**. This project demonstrates professional-grade frontend architecture, responsive design, and seamless state management.
 
-🔗 **[Live Demo](YOUR_DEPLOYED_URL_HERE)** | 📂 **[Documentation](docs/OVERVIEW.md)**
+🔗 **[Live Demo](https://verdant-vibes.netlify.app/)** | 📂 **[Documentation](docs/OVERVIEW.md)**
 
 ---
 
