@@ -1,16 +1,55 @@
-# React + Vite
+# 🌿 Verdant Vibes Premium Plant E-Commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io)](https://reactjs.org)
+[![Vite](https://img.shields.io)](https://vitejs.dev)
+[![Tailwind CSS](https://img.shields.io)](https://tailwindcss.com)
 
-Currently, two official plugins are available:
+A modern, high-performance plant e-commerce experience built with **React** and **Vite**. This project demonstrates professional-grade frontend architecture, responsive design, and seamless state management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **[Live Demo](YOUR_DEPLOYED_URL_HERE)** | 📂 **[Documentation](docs/OVERVIEW.md)**
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
 
-## Expanding the ESLint configuration
+* **🛒 Dynamic Cart System**: Real-time updates with persistent storage using local state and hooks.
+* **🌱 Product Discovery**: Sophisticated filtering by plant category, sunlight needs, and price.
+* **📱 Fully Responsive**: A mobile-first approach ensuring a lush experience on any device.
+* **⚡ Optimized Performance**: Lightning-fast load times powered by Vite's build tool.
+* **🎨 Polished UI/UX**: Clean, minimalist aesthetic inspired by modern botanical boutiques.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+* **Frontend**: [React.js](https://react.dev)
+* **Build Tool**: [Vite](https://vitejs.dev)
+* **Styling**: Tailwind CSS / Styled Components
+* **State Management**: React Context API / Redux Toolkit
+* **Routing**: React Router 6
+
+---
+
+## 🛠️ Installation & Setup
+
+Follow these steps to get the project running locally:
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com
+   ```
+
+2. **Install dependencies**
+
+    ```bash
+    npm install
+    ```
+
+3. **Start the development server**
+
+    ```bash
+    npm run dev
+    ```
+
+The app will be available on your localhost.
